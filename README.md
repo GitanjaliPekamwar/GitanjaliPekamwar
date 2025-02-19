@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**GitanjaliPekamwar/GitanjaliPekamwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Welcome to My Data Universe! 🌌  
 
-Here are some ideas to get you started:
+I'm **Gitanjali Pekamwar**, an **A Data Analyst From India** passionate about uncovering insights, telling data-driven stories, and making numbers work magic! ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do:  
+🔹 Transform raw data into actionable insights 📊  
+🔹 Build interactive dashboards & visualizations 📈  
+🔹 Dive deep into data cleaning, wrangling, and modeling 🛠️  
+🔹 Solve real-world problems with Python, SQL & Excel 🧩  
+
+---
+
+## 🔥 Tech Stack & Tools I Use are:  
+💻 **Languages:** Python, SQL  
+📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+🛠️ **Data Handling:** Pandas, NumPy, Excel, Google Sheets  
+📂 **Databases:** MySQL, PostgreSQL, SQL server  
+
+---
+
+## 🌟 Fun Facts About Me:  
+- 🚀 I see datasets as puzzles waiting to be solved!  
+- 📖 I love storytelling with data—because numbers should speak!  
+- 📚 Always eager to learn new tools & techniques!  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitanjaliPekamwar&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitanjaliPekamwar&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Let's Connect!  
+📩 **Email:** pekamwargitanjali@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/gitanjalipekamwr
+
+🚀 **Let's turn data into decisions!** 🎯  
