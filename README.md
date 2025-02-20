@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Data Universe! 🌌  
 
-I'm **Gitanjali Pekamwar**, an **A Data Analyst From India** passionate about uncovering insights, telling data-driven stories, and making numbers work magic! ✨  
+I'm **Gitanjali Pekamwar**, **A Data Analyst From India** passionate about uncovering insights, telling data-driven stories, and making numbers work magic! ✨  
 
 ## 💡 What I Do:  
 🔹 Transform raw data into actionable insights 📊  
