@@ -29,6 +29,8 @@ I'm **Gitanjali Pekamwar**, **A Data Analyst From India** passionate about uncov
 
 ## 📊 GitHub Stats  
 
+![Profile Views](https://komarev.com/ghpvc/?username=GitanjaliPekamwar&color=blue&style=flat-square)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitanjaliPekamwar&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitanjaliPekamwar&layout=compact&theme=radical)  
