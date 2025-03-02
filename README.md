@@ -26,8 +26,16 @@ I'm **Gitanjali Pekamwar**, **A Data Analyst From India** passionate about uncov
 - 📚 Always eager to learn new tools & techniques!  
 
 ---
+## 📊 GitHub Stats and Achievements
 
-## 📊 GitHub Stats  
+#### 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=GitanjaliPekamwar&theme=onedark&no-frame=true&margin-w=15)
+
+#### 📊 GitHub Heatmap
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitanjaliPekamwar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+#### 📈 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitanjaliPekamwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GitanjaliPekamwar&color=blue&style=flat-square)
 
